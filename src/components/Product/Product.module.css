@@ -1,0 +1,22 @@
+.card {
+    max-width: 600px;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+
+.img {
+    max-width: 600px;
+    object-fit: cover;
+}
+
+.info {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
